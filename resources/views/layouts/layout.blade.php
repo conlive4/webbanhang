@@ -20,7 +20,7 @@
 			<div class="row">
 				<div id="logo" class="col-md-3 col-sm-12 col-xs-12">
 					<h1>
-						<a href="{{ route('home') }}"><img style="width: 300px; height: 98px;" src="{{ asset('public/theme_fontend/img/home/logoB.png') }}"></a>						
+						<a href="{{ route('home') }}"><img style="width: 300px; height: 100px;" src="{{ asset('public/theme_fontend/img/home/logo.png') }}"></a>						
 						<nav><a id="pull" class="btn btn-danger" href="#">
 							<i class="fa fa-bars"></i>
 						</a></nav>			
